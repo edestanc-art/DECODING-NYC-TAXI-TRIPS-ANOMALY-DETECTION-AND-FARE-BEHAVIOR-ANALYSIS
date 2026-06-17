@@ -21,8 +21,8 @@ Through data cleaning, feature engineering, statistical analysis, and visualizat
 
 # Dataset
 
-# ##Dataset: 2017 Yellow Taxi Trip Data
+#Dataset: 2017 Yellow Taxi Trip Data
 Source: Google Data Analytics Professional Certificate Capstone Resources
-# ##Original Data Provider: New York City Taxi and Limousine Commission (NYC TLC)
-# ## Description:
+#Original Data Provider: New York City Taxi and Limousine Commission (NYC TLC)
+#Description:
 The dataset contains trip-level records from NYC Yellow Taxi operations, including pickup and dropoff timestamps, trip distance, passenger count, fare amount, payment type, and location identifiers. It was used to perform exploratory data analysis, anomaly detection, and fare behavior investigation.
