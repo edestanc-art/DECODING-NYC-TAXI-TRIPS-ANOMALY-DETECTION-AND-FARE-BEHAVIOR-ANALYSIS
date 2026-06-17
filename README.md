@@ -18,3 +18,7 @@ Through data cleaning, feature engineering, statistical analysis, and visualizat
 * Matplotlib- Creating charts and visualizations
 * Seaborn- Statistical and enhanced data visualizations
 * Jupyter Notebook/Google colab - Interactive environment for coding and analysis 
+
+# Dataset
+All analysis was based on the dataset
+https://drive.google.com/file/d/1p-J-nYCat2SVf7C6GWEcqfYqiDlrtVIU/view?usp=drivesdk
