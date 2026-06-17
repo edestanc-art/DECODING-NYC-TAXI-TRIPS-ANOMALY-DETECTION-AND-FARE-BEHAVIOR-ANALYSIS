@@ -43,13 +43,13 @@ This confirms taxis are mainly used for short urban mobility, not long travel.
 Fare increases strongly with distance but not perfectly linear.
 Traffic and time-based charges cause fare variation even for similar distances.
 Outliers exist (very high fares), usually due to:
-Data errors
-Extreme long trips
+* Data errors
+* Extreme long trips
 Surge/traffic conditions
 3. Time-Based Demand Pattern
 Clear rush-hour peaks:
-Morning commute (≈ 7–10 AM)
-Evening commute (≈ 5–9 PM)
+* Morning commute (≈ 7–10 AM)
+* Evening commute (≈ 5–9 PM)
 Very low activity around late night to early morning (≈ 3–5 AM).
 Demand is strongly tied to workday movement patterns.
 4. Spatial Demand (Pickup Hotspots)
@@ -81,24 +81,24 @@ This means NYC taxi revenue depends on:
 High volume + medium fares, not long trips.
 3. Inefficiency Windows Exist:
 Certain hours show:
-High demand but fewer available taxis (e.g., 4–6 PM peak congestion)
-Other hours show:
-Oversupply of taxis but low demand (late night hours)
+* High demand but fewer available taxis (e.g., 4–6 PM peak congestion)
+* Other hours show:
+* Oversupply of taxis but low demand (late night hours)
 This imbalance is key for:
-  * Fleet optimization
-  * Dynamic pricing strategies
+* Fleet optimization
+* Dynamic pricing strategies
 4. Fare vs Distance Relationship is Noisy
 Strong positive correlation exists between fare and distance.
 But deviation is caused by:
-  * Traffic congestion
-  * Time-based charges
-  * Route inefficiencies
+* Traffic congestion
+* Time-based charges
+* Route inefficiencies
 This makes NYC taxi pricing a multi-factor system, not purely distance-based.
 5. Geographic Inequality in Taxi Usage
 Manhattan dominates usage, while outer boroughs have lower density.
 Suggests:
-  * Unequal taxi availability
-  * Economic and  tourism concentration effect
+* Unequal taxi availability
+* Economic and  tourism concentration effect
 6. Operational Insight
 From a systems perspective:
 NYC taxi demand is:
