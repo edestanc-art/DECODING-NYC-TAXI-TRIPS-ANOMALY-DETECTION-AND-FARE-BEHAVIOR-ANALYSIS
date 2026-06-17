@@ -10,7 +10,7 @@ Through data cleaning, feature engineering, statistical analysis, and visualizat
 
 ## Project Link
 
-# Tools Used
+## Tools Used
 
 * Python-Core programming language for data analysis 
 * Pandas- Data Cleaning, manipulation and exploration
