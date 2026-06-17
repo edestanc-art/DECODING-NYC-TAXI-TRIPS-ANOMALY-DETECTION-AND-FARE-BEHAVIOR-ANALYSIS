@@ -17,8 +17,12 @@ Through data cleaning, feature engineering, statistical analysis, and visualizat
 * Numpy- Numeric computation and array operations
 * Matplotlib- Creating charts and visualizations
 * Seaborn- Statistical and enhanced data visualizations
-* Jupyter Notebook/Google colab - Interactive environment for coding and analysis 
+* Jupyter Notebook/Google colab - Interactive environment for coding and analysis
 
 # Dataset
-All analysis was based on the dataset
-https://drive.google.com/file/d/1p-J-nYCat2SVf7C6GWEcqfYqiDlrtVIU/view?usp=drivesdk
+
+* Dataset: 2017 Yellow Taxi Trip Data
+Source: Google Data Analytics Professional Certificate Capstone Resources
+* Original Data Provider: New York City Taxi and Limousine Commission (NYC TLC)
+* Description:
+The dataset contains trip-level records from NYC Yellow Taxi operations, including pickup and dropoff timestamps, trip distance, passenger count, fare amount, payment type, and location identifiers. It was used to perform exploratory data analysis, anomaly detection, and fare behavior investigation.
