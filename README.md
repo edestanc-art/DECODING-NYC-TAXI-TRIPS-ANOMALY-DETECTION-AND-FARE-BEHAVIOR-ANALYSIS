@@ -33,3 +33,75 @@ Source: Google Data Analytics Professional Certificate Capstone Resources
 * Original Data Provider: New York City Taxi and Limousine Commission (NYC TLC)
 * Description:
 The dataset contains trip-level records from NYC Yellow Taxi operations, including pickup and dropoff timestamps, trip distance, passenger count, fare amount, payment type, and location identifiers. It was used to perform exploratory data analysis, anomaly detection, and fare behavior investigation.
+
+## Key Insights
+1. Trip Distance Pattern
+Most trips are short-distance rides (around 1–3 miles median range).
+Long-distance trips exist but are rare outliers (airport runs like JFK/LGA dominate them).
+This confirms taxis are mainly used for short urban mobility, not long travel.
+2. Fare Structure Behavior
+Fare increases strongly with distance but not perfectly linear.
+Traffic and time-based charges cause fare variation even for similar distances.
+Outliers exist (very high fares), usually due to:
+Data errors
+Extreme long trips
+Surge/traffic conditions
+3. Time-Based Demand Pattern
+Clear rush-hour peaks:
+Morning commute (≈ 7–10 AM)
+Evening commute (≈ 5–9 PM)
+Very low activity around late night to early morning (≈ 3–5 AM).
+Demand is strongly tied to workday movement patterns.
+4. Spatial Demand (Pickup Hotspots)
+Highest pickup activity concentrated in:
+Manhattan (Midtown & Downtown)
+Business districts and tourist zones
+Lower demand in outer boroughs compared to Manhattan core.
+Confirms NYC taxi system is center-heavy (hub demand structure).
+5. Passenger Behavior
+Majority of trips have 1–2 passengers.
+Shared rides are relatively rare.
+Indicates taxis are mostly used for:
+Individual commuting
+Business travel
+Quick personal transport
+6. Payment / Fare Distribution Pattern
+Most fares fall within a moderate range ($5–$25 typical trips).
+High fare trips are uncommon but heavily skew averages upward.
+Distribution is right-skewed (many small fares, few large ones).
+
+## 📊 Additional Insights (Deeper Analysis)
+7. Demand is Highly Time-Sensitive
+Taxi demand behaves like a cyclical system (daily + weekly cycles).
+Weekdays show stronger commuting peaks than weekends.
+Weekend trips are more evenly spread across the day.
+8. Short Trips Dominate Revenue Volume
+Even though long trips generate higher fare per ride, short trips dominate total ride count and system usage.
+This means NYC taxi revenue depends on:
+High volume + medium fares, not long trips.
+9. Inefficiency Windows Exist
+Certain hours show:
+High demand but fewer available taxis (e.g., 4–6 PM peak congestion)
+Other hours show:
+Oversupply of taxis but low demand (late night hours)
+👉 This imbalance is key for:
+Fleet optimization
+Dynamic pricing strategies
+10. Fare vs Distance Relationship is Noisy
+Strong positive correlation exists between fare and distance.
+But deviation is caused by:
+Traffic congestion
+Time-based charges
+Route inefficiencies
+This makes NYC taxi pricing a multi-factor system, not purely distance-based.
+11. Geographic Inequality in Taxi Usage
+Manhattan dominates usage, while outer boroughs have lower density.
+Suggests:
+Unequal taxi availability
+Economic + tourism concentration effect
+12. Operational Insight
+From a systems perspective:
+NYC taxi demand is:
+Spatio-temporal (space + time dependent)
+Highly clustered (Manhattan-heavy)
+Predictable in cycles (rush hours + weekends)
