@@ -12,7 +12,7 @@ Through data cleaning, feature engineering, statistical analysis, and visualizat
 
 # Tools Used
 
-* # Python-Core programming language for data analysis 
+* #Python#-Core programming language for data analysis 
 * Pandas- Data Cleaning, manipulation and exploration
 * Numpy- Numeric computation and array operations
 * Matplotlib- Creating charts and visualizations
