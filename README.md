@@ -84,7 +84,7 @@ Certain hours show:
 High demand but fewer available taxis (e.g., 4–6 PM peak congestion)
 Other hours show:
 Oversupply of taxis but low demand (late night hours)
- This imbalance is key for:
+This imbalance is key for:
 * Fleet optimization
 * Dynamic pricing strategies
 4. Fare vs Distance Relationship is Noisy
@@ -99,7 +99,7 @@ Manhattan dominates usage, while outer boroughs have lower density.
 Suggests:
 * Unequal taxi availability
 * Economic and  tourism concentration effect
-12. Operational Insight
+6. Operational Insight
 From a systems perspective:
 NYC taxi demand is:
 Spatio-temporal (space + time dependent)
