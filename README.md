@@ -16,7 +16,7 @@ Through data cleaning, feature engineering, statistical analysis, and visualizat
 * Understand relationship between distance and fare
 
 ## Project Link
-NYC_Yellow_Taxi_Trip_EDA.ipynb
+https://github.com/edestanc-art/DECODING-NYC-TAXI-TRIPS-ANOMALY-DETECTION-AND-FARE-BEHAVIOR-ANALYSIS/blob/main/NYC_Yellow_Taxi_Trip_EDA.ipynb
 
 ## Tools Used
 
