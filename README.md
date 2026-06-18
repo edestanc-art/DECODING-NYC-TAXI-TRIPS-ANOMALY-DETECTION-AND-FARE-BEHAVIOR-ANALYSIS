@@ -16,6 +16,7 @@ Through data cleaning, feature engineering, statistical analysis, and visualizat
 * Understand relationship between distance and fare
 
 ## Project Link
+NYC_Yellow_Taxi_Trip_EDA.ipynb
 
 ## Tools Used
 
