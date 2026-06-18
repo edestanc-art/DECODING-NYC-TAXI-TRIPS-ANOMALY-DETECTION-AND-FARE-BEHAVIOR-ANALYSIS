@@ -105,7 +105,9 @@ NYC taxi demand is:
 Spatio-temporal (space + time dependent)
 Highly clustered (Manhattan-heavy)
 Predictable in cycles (rush hours + weekends)
-## Key Data Quality Insight: 6.17% of records contained negative fare amounts, suggesting substantial anomalies that require cleaning before reliable analysis can be conducted.
+
+## Key Data Quality Insight:
+ 6.17% of records contained negative fare amounts, suggesting substantial anomalies that require cleaning before reliable analysis can be conducted.
 ## Conclusion 
 
 The NYC Yellow Taxi system is driven by strong spatial concentration and predictable temporal cycles. Demand is highest in Manhattan during commuting hours, with predominantly short-distance trips generating the bulk of ride volume. Fare patterns show non-linear behavior due to traffic and time-based pricing effects. Overall, the system behaves as a highly structured urban mobility network with clear inefficiencies and optimization opportunities.
