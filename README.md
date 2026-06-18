@@ -1,8 +1,9 @@
-## ![NYC Taxi](NYC_Taxi.png)
 
 ## DECODING NYC TAXI TRIPS: ANOMALY DETECTION AND FARE BEHAVIOR ANALYSIS
 
 ## By Ede Stan.C.
+
+## ![NYC Taxi](NYC_Taxi.png)
 
 ## Overview 
 
