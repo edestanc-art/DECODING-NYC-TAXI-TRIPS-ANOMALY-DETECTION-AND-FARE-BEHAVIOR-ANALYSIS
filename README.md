@@ -3,7 +3,8 @@
 
 ## By Ede Stan.C.
 
-## ![NYC Taxi](NYC%20Taxi%20Image.png)
+## <img width="1536" height="1024" alt="1781924957944" src="https://github.com/user-attachments/assets/b04415a4-e20b-45f0-a9aa-b32e25530be9" />
+
 ## Overview 
 
 This project explores the NYC Yellow Taxi Trip dataset to uncover patterns in fare behavior, assess data quality, and investigate anomalies within real-world transportation data. Using Python-based exploratory data analysis (EDA), the study examines trip characteristics, fare distributions, and operational trends while identifying unusual records that could impact analytical outcomes.
